@@ -78,7 +78,7 @@ public class Solution {
         }
         return root;
     }
-    public void displayTree(TreeNode root){
+    public static void displayTree(TreeNode root){
         Queue<TreeNode> nodes=new LinkedList<>();
         TreeNode parent;
         nodes.offer(root);

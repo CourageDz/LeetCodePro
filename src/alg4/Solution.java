@@ -3,33 +3,32 @@ package alg4;
 import java.util.Scanner;
 
 public class Solution {
-    //暴力法
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int n=nums1.length+nums2.length;
-        int[] num3 = new int[n];
-        int i=0,j=0,k=0;
-        double ans=0;
-        while (i<nums1.length&&j<nums2.length){
-            if(nums1[i]<=nums2[j]){
-                num3[k++]=nums1[i++];
+        int n=nums1.length;
+        int m=nums2.length;
+        if(m>n){
+            int temp[];
+            temp=nums2;
+            nums2=nums1;
+            nums1=temp;
+            int tempN=n;
+            n=m;
+            m=tempN;
+        }
+        double midNum;
+        int aLeft=0,aRight=n-1,bLeft=0,bRight=m-1;
+        int mid=n+m+1;
+        if(nums1[aRight]<=nums2[bLeft]){
+            if(mid%2==1){
+                midNum=(nums1[mid/2]+nums1[mid/2-1])*1.0/2;
             }else
-                num3[k++]=nums2[j++];
+                midNum=nums1[mid/2-1];
         }
-        if(i<nums1.length){
-            for (int t = i; t <nums1.length ; t++) {
-                num3[k++]=nums1[t++];
+        else if(nums1[aLeft]>=nums2[bRight]){
+            if(mid%2==1){
             }
         }
-        if(j<nums2.length){
-            for (int t = j; t <nums2.length ; t++) {
-                num3[k++]=nums2[t++];
-            }
-        }
-        if(k%2==0){
-            ans=(num3[k/2-1]+num3[k/2])/2.0;
-        }else
-            ans=num3[(k+1)/2-1];
-        return ans;
+        return 0;
     }
 
     public static void main(String[] args) {
