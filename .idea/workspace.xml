@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7986bf4-9930-4317-88b4-f21fc7aa1f24" name="Default" comment="&quot;2020-3-17&quot;" />
+    <list default="true" id="c7986bf4-9930-4317-88b4-f21fc7aa1f24" name="Default" comment="&quot;2020-3-17&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -389,7 +391,7 @@
       <workItem from="1569556373101" duration="2453000" />
       <workItem from="1569673236202" duration="605000" />
       <workItem from="1569752748875" duration="1810000" />
-      <workItem from="1584431904126" duration="885000" />
+      <workItem from="1584431904126" duration="1691000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;2018.9.20&quot;">
       <created>1537453455623</created>
@@ -447,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584432457515</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&quot;2020-3-17&quot;">
+      <created>1584432794478</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584432794478</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
