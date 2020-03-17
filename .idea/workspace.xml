@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7986bf4-9930-4317-88b4-f21fc7aa1f24" name="Default" comment="&quot;2019-06-05 练习了dp&quot;">
-      <change afterPath="$PROJECT_DIR$/src/byteDance/qiuZhao/test1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/byteDance/qiuZhao/test2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/byteDance/qiuZhao/test3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/byteDance/springZhao2019/test1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianZhiOffer/Solution.java" afterDir="false" />
+    <list default="true" id="c7986bf4-9930-4317-88b4-f21fc7aa1f24" name="Default" comment="&quot;2020-3-17&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePro/alg2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodePro/alg2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/alg2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/alg2/Solution.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,294 +57,61 @@
   <component name="FavoritesManager">
     <favorites_list name="LeetCodePro" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/alg2/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/byteDance/springZhao2019/test1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1225">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/byteDance/qiuZhao/test1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/byteDance/qiuZhao/test2/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/byteDance/qiuZhao/test3/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jianZhiOffer/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/StringBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5650">
-              <caret line="255" selection-start-line="255" selection-end-line="255" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/AbstractStringBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19800">
-              <caret line="824" column="20" selection-start-line="824" selection-start-column="20" selection-end-line="824" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/System.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11250">
-              <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/alg2/Solution2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>left</find>
-      <find>j</find>
-      <find>Stack</find>
-      <find>solution</find>
-      <find>end[index</find>
-      <find>end[index]</find>
-      <find>itr</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>left</replace>
-      <replace>st</replace>
-      <replace>slopes</replace>
-      <replace>samePoint</replace>
-      <replace>path</replace>
-      <replace>value</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="$PROJECT_DIR$/src/zteAlgorithm/Main.java" />
-        <option value="$PROJECT_DIR$/src/threadTest/ThreadFromFirstToHundred.java" />
-        <option value="$PROJECT_DIR$/src/test0406/Main.java" />
-        <option value="$PROJECT_DIR$/src/test0412/Node.java" />
-        <option value="$PROJECT_DIR$/src/test0412/Main.java" />
-        <option value="$PROJECT_DIR$/src/test0413/Main.java" />
-        <option value="$PROJECT_DIR$/src/test0417/Main2.java" />
-        <option value="$PROJECT_DIR$/src/test0417/Main.java" />
-        <option value="$PROJECT_DIR$/src/simulator0315/Test.java" />
-        <option value="$PROJECT_DIR$/src/mFields/TestCB.java" />
-        <option value="$PROJECT_DIR$/src/lastWordLength0506/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/sortArrayTwoDir0506/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/TestString.java" />
-        <option value="$PROJECT_DIR$/src/alg279/Solution.java" />
-        <option value="$PROJECT_DIR$/src/simulation2015/Main.java" />
-        <option value="$PROJECT_DIR$/src/simulation2015/test3/Main.java" />
-        <option value="$PROJECT_DIR$/src/simluation2017/t2/Main.java" />
-        <option value="$PROJECT_DIR$/src/simulation2015/test2/Main.java" />
-        <option value="$PROJECT_DIR$/src/simulation2015/test4/Main.java" />
-        <option value="$PROJECT_DIR$/src/alg2017/topic3/Main.java" />
-        <option value="$PROJECT_DIR$/src/threadTest/Test.java" />
-        <option value="$PROJECT_DIR$/src/alg2017/topic4/Main.java" />
-        <option value="$PROJECT_DIR$/src/alg2017/topic5/Main.java" />
-        <option value="$PROJECT_DIR$/src/alg98/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/alg98/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/alg98/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algLearn/hebingpaixu/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algLearn/ziduanhe/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algLearn/quickSort/Solution.java" />
-        <option value="$PROJECT_DIR$/src/alg64/Solution.java" />
-        <option value="$PROJECT_DIR$/src/alg96/Solution.java" />
-        <option value="$PROJECT_DIR$/src/alg120/Solution.java" />
-        <option value="$PROJECT_DIR$/src/xiaoZhaoBiShi/xiaoQdeGeDan/Main.java" />
-        <option value="$PROJECT_DIR$/src/xiaoZhaoBiShi/xiaoQdeGeDan1/Main.java" />
-        <option value="$PROJECT_DIR$/src/xiaoZhaoBiShi/t1xiaoQdeGeDan/Main.java" />
-        <option value="$PROJECT_DIR$/src/xiaoZhaoBiShi/t2anPaiJiQi/Main.java" />
-        <option value="$PROJECT_DIR$/src/algLearn/packageProblemDP/Solution.java" />
-        <option value="$PROJECT_DIR$/src/alg146/Solution.java" />
-        <option value="$PROJECT_DIR$/src/alg146/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/alg0619/test1/Main.java" />
-        <option value="$PROJECT_DIR$/src/alg0619/test2/Main.java" />
-        <option value="$PROJECT_DIR$/src/alg0619/test3/Main.java" />
-        <option value="$PROJECT_DIR$/src/maxFreqStack/Main.java" />
-        <option value="$PROJECT_DIR$/src/maxFreqStack/Solution.java" />
-        <option value="$PROJECT_DIR$/src/alg2/Solution.java" />
-        <option value="$PROJECT_DIR$/src/byteDance/springZhao2019/test1/Main.java" />
-        <option value="$PROJECT_DIR$/src/byteDance/qiuZhao/test1/Main.java" />
-        <option value="$PROJECT_DIR$/src/byteDance/qiuZhao/test2/Main.java" />
-        <option value="$PROJECT_DIR$/src/byteDance/qiuZhao/test3/Main.java" />
-        <option value="$PROJECT_DIR$/src/jianZhiOffer/Solution.java" />
+        <option value="lab computer" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\JdeaWorkspace\src\github.com\taeky\LeetCodePro\.idea" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
-  </component>
+  <component name="ProjectId" id="1OlZGT8SNpJ1iadlu1Aljzat6Vr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCodeProgrem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeProgrem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeProgrem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeProgrem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeProgrem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeProgrem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="byteDance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeProgrem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeProgrem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="byteDance" type="462c0819:PsiDirectoryNode" />
-              <item name="qiuZhao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeProgrem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeProgrem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="byteDance" type="462c0819:PsiDirectoryNode" />
-              <item name="qiuZhao" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeProgrem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeProgrem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="byteDance" type="462c0819:PsiDirectoryNode" />
-              <item name="qiuZhao" type="462c0819:PsiDirectoryNode" />
-              <item name="test3" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCodePro" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCodePro" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="List&#9;FILE&#9;file://E:/JdeaWorkspace/src/github.com/taeky/LeetCodePro/src/alg25/ListNode.java&#10;li&#9;FILE&#9;file://E:/JdeaWorkspace/src/github.com/taeky/LeetCodePro/src/alg25/ListNode.java&#10;listnode&#9;FILE&#9;file://E:/JdeaWorkspace/src/github.com/taeky/LeetCodePro/src/alg2/ListNode.java&#10;Listn&#9;PSI&#9;JAVA://alg147.ListNode&#10;太大&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561101853713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561551912919" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cpabe" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -376,14 +135,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="byteDance.qiuZhao.test3.Main" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulationCisco.Main" />
       <module name="LeetCodePro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="byteDance.qiuZhao.test3.*" />
+          <option name="PATTERN" value="simulationCisco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulationCisco.t2.Main" />
+      <module name="LeetCodePro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simulationCisco.t2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,12 +165,12 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="byteDance.qiuZhao.test1.Main" />
+      <option name="MAIN_CLASS_NAME" value="simulationTencent0920.t4.Main" />
       <module name="LeetCodePro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="byteDance.qiuZhao.test1.*" />
+          <option name="PATTERN" value="simulationTencent0920.t4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,13 +178,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="byteDance.springZhao2019.test1.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulationTencent0920.t3.Main" />
       <module name="LeetCodePro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="byteDance.springZhao2019.test1.*" />
+          <option name="PATTERN" value="simulationTencent0920.t3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,27 +192,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianZhiOffer.Solution" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byteDanceSimulation0811.t10922.Main" />
       <module name="LeetCodePro" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianZhiOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maxFreqStack.Solution" />
-      <module name="LeetCodePro" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maxFreqStack.*" />
+          <option name="PATTERN" value="byteDanceSimulation0811.t10922.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,19 +231,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -614,17 +373,25 @@
       <workItem from="1559117031463" duration="30856000" />
       <workItem from="1560395995637" duration="14930000" />
       <workItem from="1560930605287" duration="599000" />
-      <workItem from="1560941608185" duration="17179000" />
-      <workItem from="1561791939753" duration="473000" />
-      <workItem from="1561792523877" duration="1192000" />
-      <workItem from="1561794415864" duration="91000" />
-      <workItem from="1561794542623" duration="60000" />
-      <workItem from="1561794639650" duration="46000" />
-      <workItem from="1561794718557" duration="155000" />
-      <workItem from="1561794909136" duration="102000" />
-      <workItem from="1561795312682" duration="1221000" />
-      <workItem from="1561883584555" duration="9824000" />
-      <workItem from="1561968253463" duration="5169000" />
+      <workItem from="1560941608185" duration="31383000" />
+      <workItem from="1562662006234" duration="590000" />
+      <workItem from="1562663295098" duration="12726000" />
+      <workItem from="1562933650940" duration="23279000" />
+      <workItem from="1563959040751" duration="14694000" />
+      <workItem from="1564547828907" duration="320000" />
+      <workItem from="1564554052645" duration="12354000" />
+      <workItem from="1564993548221" duration="286000" />
+      <workItem from="1564993848257" duration="23574000" />
+      <workItem from="1565505117799" duration="89337000" />
+      <workItem from="1567148324846" duration="11260000" />
+      <workItem from="1567230473397" duration="46149000" />
+      <workItem from="1568185552048" duration="10791000" />
+      <workItem from="1568631712785" duration="647000" />
+      <workItem from="1568719606450" duration="25220000" />
+      <workItem from="1569556373101" duration="2453000" />
+      <workItem from="1569673236202" duration="605000" />
+      <workItem from="1569752748875" duration="1810000" />
+      <workItem from="1584431904126" duration="507000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;2018.9.20&quot;">
       <created>1537453455623</created>
@@ -661,92 +428,48 @@
       <option name="project" value="LOCAL" />
       <updated>1559719711400</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;2019-06-21 新增了6月牛课测试题 以及 最大频率栈 + LRU缓存机制&quot;">
+      <created>1561123135431</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561123135431</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;2020-3-17&quot;">
+      <created>1584431965120</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584431965120</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="668037000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1444563" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" type="SLIDING" weight="0.32995737" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.1828074" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.437432" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005208" side_tool="true" weight="0.4654018" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.16757345" />
-      <window_info anchor="bottom" id="Tail" order="12" />
-      <window_info anchor="bottom" id="Database Console" order="13" weight="0.22584148" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.15724947" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32942432" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Maven" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17110874" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" type="SLIDING" weight="0.32995737" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21824104" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36047775" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.16938111" />
-      <window_info anchor="bottom" id="Tail" order="12" />
-      <window_info anchor="bottom" id="Database Console" order="13" weight="0.22584148" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.15724947" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32942432" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;2019 06 03&quot;" />
     <MESSAGE value="&quot;2018.9.20&quot;" />
     <MESSAGE value="&quot;2019-06-05 练习了dp&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;2019-06-05 练习了dp&quot;" />
+    <MESSAGE value="&quot;2019-06-21 &quot;" />
+    <MESSAGE value="&quot;2019-06-21 新增了6月牛课测试题 以及 最大频率栈 + LRU缓存机制&quot;" />
+    <MESSAGE value="&quot;2020-3-17&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;2020-3-17&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -754,875 +477,923 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg2/Solution.java</url>
           <line>65</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg3/Solution.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg3/SolutionTemp.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg5/Solution.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg5/Solution2.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg4/Solution.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg4/Solution2.java</url>
           <line>65</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg6/Solution.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg7/Solution.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg8/Solution.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg8/Solution.java</url>
           <line>59</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg10/Solution.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg15/Solution2.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg17/Solution.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg17/Solution2.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg18/Solution.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg19/Solution.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg22/Solution.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/dynamicBestErChaShu/Solution.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg149/Solution.java</url>
           <line>66</line>
-          <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg453/Solution.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg621/Solution.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg731/MyCalendarTwo.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg29/Solution2.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg46/Solution.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg31/Solution.java</url>
           <line>38</line>
-          <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/dynamicImageC/Solution.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg42/Solution.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg44/Solution.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg47/Solution.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg50/Solution.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg54/Solution.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg372/Solution.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg863/Solution.java</url>
           <line>74</line>
-          <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg816/Solution.java</url>
           <line>74</line>
-          <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg842/Solution.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg241/Solution.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg652/Solution.java</url>
           <line>84</line>
-          <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg498/Solution.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg880/Solution.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg56/Solution.java</url>
           <line>47</line>
-          <properties />
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg822/Solution.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg517/Solution.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg678/Solution.java</url>
           <line>56</line>
-          <properties />
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg678/Solution2.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg862/Solution.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg909/Solution.java</url>
           <line>58</line>
-          <properties />
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg865/Solution.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg207/Solution.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg639/Solution.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg567/Solution.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/mFields/Solution.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg233/Solution2.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg240/Solution.java</url>
           <line>47</line>
-          <properties />
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg131/Solution.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg131/Solution.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg147/Solution.java</url>
           <line>67</line>
-          <properties />
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg450/Solution.java</url>
           <line>139</line>
-          <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg508/Solution.java</url>
           <line>98</line>
-          <properties />
           <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg354/Solution.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg90/Solution.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg430/Solution.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg778/Solution.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg188/Solution.java</url>
           <line>66</line>
-          <properties />
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg215/Solution.java</url>
           <line>62</line>
-          <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg402/Solution.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg118/Solution.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg11/Solution.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg98/Solution.java</url>
           <line>110</line>
-          <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg839/Solution.java</url>
           <line>89</line>
-          <properties />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg236/Solution.java</url>
           <line>115</line>
-          <properties />
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg889/Solution.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg695/Solution.java</url>
           <line>65</line>
-          <properties />
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg718/Solution.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg397/Solution.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg456/Solution.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg25/Solution.java</url>
           <line>78</line>
-          <properties />
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg871/Solution.java</url>
           <line>73</line>
-          <properties />
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg825/Solution.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg335/Solution.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg86/Solution.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg473/Solution.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg817/Solution.java</url>
           <line>84</line>
-          <properties />
           <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg749/Solution.java</url>
           <line>109</line>
-          <properties />
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg749/Solution.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg749/Solution.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="145" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg71/Solution.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg600/Solution.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg75/Solution.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg55/Solution.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg55/Solution2.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="154" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg636/Solution.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/simulator0314/Main.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/simulator0315/Solution.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="159" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/simulator0315/Main.java</url>
           <line>69</line>
-          <properties />
           <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/threadTest/ThreadFromFirstToHundred.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test0412/Main.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="165" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test0413/Main.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="166" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/simulator0315/Test.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test0417/Main.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/lastWordLength0506/Main.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/TestString.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="174" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg279/Solution.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/simulation2015/test1/Main.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/simulation2015/test3/Main.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="177" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/simluation2017/t2/Main.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/simulation2015/test4/Main.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="179" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg2017/topic4/Main.java</url>
           <line>73</line>
-          <properties />
           <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/algLearn/quickSort/Solution.java</url>
           <line>60</line>
-          <properties />
           <option name="timeStamp" value="186" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/algLearn/packageProblemDP/Solution.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg64/Solution.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg96/Solution.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="189" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/xiaoZhaoBiShi/t1xiaoQdeGeDan/Main.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="190" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg146/LRUCache.java</url>
           <line>107</line>
-          <properties />
           <option name="timeStamp" value="191" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg0619/test1/Main.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alg0619/test3/Main.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/maxFreqStack/Main.java</url>
           <line>66</line>
-          <properties />
           <option name="timeStamp" value="195" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/maxFreqStack/Solution.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/byteDance/springZhao2019/test1/Main.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="197" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/byteDance/qiuZhao/test3/Main.java</url>
-          <line>16</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/alg3/Main.java</url>
+          <line>55</line>
           <option name="timeStamp" value="198" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/jianZhiOffer/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/test2/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/perm/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/moreThanHalf/Solution.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/uglyNumber/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/findTheNumberOfOneTimeOfArray/Solution.java</url>
           <line>52</line>
-          <properties />
-          <option name="timeStamp" value="199" />
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/sumIsSdeArray/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/raoQuanNmoM/Solution.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test0717/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/matchZhengZe/Solution.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/deleteRepeatNode/Solution.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/zhiTypePrintTree/Solution.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/serialAndDesTree/Solution.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/findKstNodeInTree/Solution.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0727/sortArray/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0803/windows/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianZhiOffer/shunshizhenPrintArray/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dajiang0906/t1/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dajiang0906/t3/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/huaweiSimulation/transferJinZhi/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/huaweiSimulation/getZhiShu/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/huaweiSimulation/t1/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0811/t2/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0811/t3/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0811/t4/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/byteDanceSimulation0811/t1/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/byteDanceSimulation0811/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0815/t1/Main.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0815/t2/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0815/t2/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0815/t5/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulation0811/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shangtang/t2/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shangtang/t3/Mian.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simultionMeiTuan/t3/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simultionMeiTuan/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simultionYuanFuDao/t1/Main.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationJD/t2/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationJD/t1/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationKuaiShou0825/t1/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationByteDance0825/t1/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationByteDance0825/t3/Main.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationByteDance0825/t4/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationDiDi/t1/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationSF0829/t2/Main.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/siZeYunSuan/middleToPost/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationALi0830/t2/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationWeiBo08131/t1/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationWeiBo08131/t2/Solution.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationWeiBo08131/t2/Solution.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationXieChen0904/t2/Main.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationXieChen0904/t1/Main.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationXiaoMi0905/ipStatistics/Main3.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationXiaoMi0905/nearbyRetail/Main.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationAqiyi0908/t1/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationAqiyi0908/t2/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationQiAnXin0909/t1/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationQiAnXin0909/t2/Main.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/multiThreads/serialPrintABC/PrintThread.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/multiThreads/myPrintABC/PrintThread.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationBaiDu0916/t2/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationTencent0920/t3/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationTencent0920/t3/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationTencent0920/t4/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/byteDanceSimulation0811/t10922/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/simulationCisco/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="325" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="((LRUCache)this).head" custom="alg146.LRUCache" />
-        <watch expression="queue.toArray()[0]" />
-        <watch expression="matrix[i]" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/simulation2015/test4/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg2017/topic3/Main.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/lang/Comparable.java" />
-    <entry file="file://$PROJECT_DIR$/src/simulation2015/test3/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/threadTest/Test.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/util/concurrent/RunnableFuture.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/util/concurrent/FutureTask.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/util/concurrent/Callable.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg98/Solution2.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg98/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg2017/topic5/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg2017/topic4/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/simluation2017/t2/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg98/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/algLearn/hebingpaixu/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/algLearn/quickSort/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg64/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg96/Solution.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/util/Comparator.java" />
-    <entry file="file://$PROJECT_DIR$/src/algLearn/packageProblemDP/Solution.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/util/Map.java" />
-    <entry file="file://$PROJECT_DIR$/src/algLearn/ziduanhe/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg120/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/src/xiaoZhaoBiShi/t1xiaoQdeGeDan/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/xiaoZhaoBiShi/t2anPaiJiQi/Main.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/util/HashSet.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/util/HashMap.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/lang/Math.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg146/LRUCache.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/lang/Object.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/util/Deque.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg0619/test1/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg0619/test2/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/alg0619/test3/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/util/Queue.java" />
-    <entry file="jar://C:/JAVA/jdk/src.zip!/java/lang/System.java" />
-    <entry file="file://$PROJECT_DIR$/src/maxFreqStack/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/maxFreqStack/Solution.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg2/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg2/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/byteDance/springZhao2019/test1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1225">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/byteDance/qiuZhao/test1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/byteDance/qiuZhao/test2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5650">
-          <caret line="255" selection-start-line="255" selection-end-line="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19800">
-          <caret line="824" column="20" selection-start-line="824" selection-start-column="20" selection-end-line="824" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11250">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/alg2/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/byteDance/qiuZhao/test3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianZhiOffer/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
